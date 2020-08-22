@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Paulo Henrique Favero Pereira",
+    "occupation":"Software Engineer",
+    "description":"Work zone! Keep away!!!",
+    "image":"profilepic.jpg",
+    "bio":"I need more time to write about me and I do",
+    "contactmessage":"I need event more time to write a nice message",
+    "email": "phfaverop@gmail.com",
+    "phone": "I don't know if I will display my phone number here :)",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Campinas)",
+      "state":"(São Paulo)",
+      "zip": "(Brazil)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/paulohenrique.pereiraa/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/paulofaveropereira/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/PauloFavero",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"(UNICAMP) Universidade Estadual de Campinas",
+        "degree":"Control and Automation Engineer",
+        "graduated":"In progress",
+        "description":"-Developer C at Department of Cosmic Rays and Chronology(DRCC-IFGW) (2013). -President, Vice-President and Social Projects Manager of ARU(Fraternities Association)(2014-2016). -Technical Drawing and Manufacturing Mechanical Parts in Laboratory of Rotating Machines(LAMAR-FEM) (2014-2017)."
+      },
+      {
+        "school":"(ENIB) École Nationale d'Ingénieurs de Brest",
+        "degree":"Double Degree in Mechatronics Engineering",
+        "graduated":"September 2019",
+        "description":"Double degree program between Brazil and France"
+      }
+    ],
+    "work":[
+      {
+        "company":"Siemens Corporate Technology",
+        "title":"J-1 Intern as a Software Developer",
+        "years":"April, 2019 - Febrary,2020",
+        "description":"I played with nice robots"
+      },
+      {
+        "company":"ENSTA Bretagne",
+        "title":"Internship as an Embedded System Engineer",
+        "years":"June 2018 - September 2018",
+        "description":"As a member of the robotics laboratory team at ENSTA BRETAGNE, an engineering school located in Brest, France, I participated in the construction of an autonomous sailing robot for the world robot sailing competition that took place in Southampton, England. I worked on the mechanical and electronic of the project. In relation to the mechanical domain, I was responsible for the confection of 3D printer parts with CAD software (PTC CREO PARAMETRIC) and the production of the boat sails. In electronics, I realized the motherboard of the boat, with the help of the software Proteus we made the electronic circuit and the assembly of the network of sensors and the actuators in that board."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"10%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      },
+      {
+        "name":"HTML5",
+        "level":"40%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"40%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
