@@ -1,56 +1,31 @@
 {
   "main": {
-    "name":"Paulo Henrique Favero Pereira",
-    "occupation":"Software Engineer",
-    "description":"Work zone! Keep away!!!",
+    "name":"Paulo H Favero Pereira",
+    "occupation":"Mechatronic Engineer",
+    "description":" I have an MSc. degree in Computer Science for Autonomous Systems. My field of interest is robotics, computer vision, and artificial intelligence",
     "image":"profilepic.jpg",
-    "bio":"I need more time to write about me and I do",
+    "bio":"I spent two years in exchange in Brest-France ❤️ studying engineering and computer science with a scholarship. In order to get practical experience, I did an internship as a software engineer at Siemens Corporate Technology developing software for autonomous robots. At this point, I discovered my passion for robots and computer vision. I really love to spend my free time cooking nice dishes and flying my FPV drone. I think that I have an uncommon set of sports which I like to practice. I practice archery and BMX Flatland. ",
     "contactmessage":"I need event more time to write a nice message",
     "email": "phfaverop@gmail.com",
     "phone": "I don't know if I will display my phone number here :)",
     "address":{
       "street":"(Your Street)",
-      "city":"(Campinas)",
-      "state":"(São Paulo)",
-      "zip": "(Brazil)"
+      "city":"Campinas",
+      "state":"São Paulo",
+      "zip": "Brazil"
     },
     "website": "",
     "resumedownload":"",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://www.facebook.com/paulohenrique.pereiraa/",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/paulofaveropereira/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
         "url":"https://github.com/PauloFavero",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
